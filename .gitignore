@@ -1,0 +1,10 @@
+#Python bytecode
+*.pyc
+
+#Vim swap files
+.*.swp
+.*.swo
+
+.ropeproject
+
+db.sqlite3
